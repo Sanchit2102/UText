@@ -1,0 +1,8 @@
+.accordion-button::after{
+    filter: invert(1);
+}
+.mid-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
